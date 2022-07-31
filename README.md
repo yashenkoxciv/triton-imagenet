@@ -37,3 +37,4 @@ python cook_triton.py resnets resnet50_fe resnet18
 
 1. More models: add other models from torchvision (densenets, resnext, etc.)
 2. Convert "Available models" list to table with descriptions
+3. Do preprocessing on triton's side (use python backend)
